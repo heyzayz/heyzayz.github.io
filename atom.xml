@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>解放双手</title>
+  <subtitle>科技改变生活，解放更多时间</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://heyzayz.github.io/"/>
+  <updated>2017-08-13T07:58:42.643Z</updated>
+  <id>http://heyzayz.github.io/</id>
+  
+  <author>
+    <name>hao456</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>魔灵全自动功能说明</title>
+    <link href="http://heyzayz.github.io/2017-08-09/smon_function/"/>
+    <id>http://heyzayz.github.io/2017-08-09/smon_function/</id>
+    <published>2017-08-08T16:00:00.000Z</published>
+    <updated>2017-08-13T07:58:42.643Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="声明"><a href="#声明" class="headerlink" title="声明"></a>声明</h2><p> 欢迎使用电脑通用挂机脚本，用于自动挂机，不含黑科技，不会封号，请放心使用！<br> 简单说就是脚本只有代替双手，你能打过的替你打，你打不过的用脚本也是不能打过，所以不封<br> QQ群206319518 点击链接加入群<a href="https://jq.qq.com/?_wv=1027&amp;k=4E0RiN7" target="_blank" rel="external">【魔灵全自动解放双手】：https://jq.qq.com/?_wv=1027&amp;k=4E0RiN7</a><br>群内有多红星大神水军欢迎进群探讨闲聊。<br><a id="more"></a></p>
+<h2 id="使用说明传送门"><a href="#使用说明传送门" class="headerlink" title="使用说明传送门"></a><a href="/2017-08-09/smon_use/">使用说明传送门</a></h2><h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><pre><code>支持刷剧情副本（狗粮副本），地下城副本（符文/精髓/秘密地下城），百塔，异界地下城（人造人材料）
+，突突，竞技场，强化符文，红水刷商店
+可选自动购买体力，扫商店（购买商店内小黄书/碎片/刻印石），死亡复活，截图
+可选定时停止/关模拟器/关机
+战斗次数/失败次数/购买体力次数/符文获得情况/强化石精炼石等统计
+</code></pre><h2 id="剧情副本（狗粮副本）"><a href="#剧情副本（狗粮副本）" class="headerlink" title="剧情副本（狗粮副本）"></a>剧情副本（狗粮副本）</h2><pre><code>自动换狗粮
+可选背包狗粮/仓库狗粮
+可选符文是否出售
+可选刷副本次数
+可选使用好友队长带狗粮
+</code></pre><h2 id="地下城副本"><a href="#地下城副本" class="headerlink" title="地下城副本"></a>地下城副本</h2><pre><code>可以筛选符文出售保留
+五星以下自动出售
+优先集火小BOSS
+</code></pre><h2 id="百塔"><a href="#百塔" class="headerlink" title="百塔"></a>百塔</h2><pre><code>默认失败一次停止
+</code></pre><h2 id="异界地下城"><a href="#异界地下城" class="headerlink" title="异界地下城"></a>异界地下城</h2><pre><code>可以筛选符文出售保留
+五星以下自动出售
+可以筛选精炼石强化石出售保留
+</code></pre><h2 id="突突"><a href="#突突" class="headerlink" title="突突"></a>突突</h2><pre><code>可以筛选精炼石强化石出售保留
+支持队长或队员
+可选保持队伍或不保持队伍
+</code></pre><h2 id="竞技场"><a href="#竞技场" class="headerlink" title="竞技场"></a>竞技场</h2><pre><code>支持普通竞技场，世界竞技场
+可选普通竞技场完成后自动转世界竞技场
+可选拖时间方式或自动
+</code></pre><h2 id="扫商店说明"><a href="#扫商店说明" class="headerlink" title="扫商店说明"></a>扫商店说明</h2><p>1.使用前需手动点开一次商店之后再关闭<br>2.之后不要移动界面<br>3.然后直接去想要打的副本并且在脚本选中对应副本<br>4.点启动后选中扫商店<br>5.如果移动需要重新操作一次1234步骤<br>定时扫商店可自动购买小黄书，刻印石，光暗传说碎片！ </p>
+<h2 id="红水刷商店"><a href="#红水刷商店" class="headerlink" title="红水刷商店"></a>红水刷商店</h2><pre><code>商店界面启动
+可选遇到传说符文停止并且提示（暂时不识别符文星级）
+</code></pre><h2 id="强化符文"><a href="#强化符文" class="headerlink" title="强化符文"></a>强化符文</h2><pre><code>打开如图所示管理页，启动
+</code></pre><p>–<img src="/img/m0011.png" alt="展示">–</p>
+<h2 id="充值"><a href="#充值" class="headerlink" title="充值"></a>充值</h2><pre><code>软件登陆界面或功能界面菜单都有充值按钮
+推荐淘宝充值自动发货
+也可直接充值或者微信支付宝转账（微信，支付宝请在软件上打开二维码或者直接找群主要）
+</code></pre><p><img src="/img/m0004.png" alt="展示"></p>
+<h2 id="其他菜单"><a href="#其他菜单" class="headerlink" title="其他菜单"></a>其他菜单</h2><pre><code>功能界面其他菜单可打开截图文件夹，也可以再开一个脚本
+</code></pre><h2 id="图片展示"><a href="#图片展示" class="headerlink" title="图片展示"></a>图片展示</h2><p><img src="/img/m0006.png" alt="展示"><br><img src="/img/m0007.png" alt="展示"><br><img src="/img/m0008.png" alt="展示"><br><img src="/img/m0009.png" alt="展示"><br><img src="/img/m0010.png" alt="展示"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;声明&quot;&gt;&lt;a href=&quot;#声明&quot; class=&quot;headerlink&quot; title=&quot;声明&quot;&gt;&lt;/a&gt;声明&lt;/h2&gt;&lt;p&gt; 欢迎使用电脑通用挂机脚本，用于自动挂机，不含黑科技，不会封号，请放心使用！&lt;br&gt; 简单说就是脚本只有代替双手，你能打过的替你打，你打不过的用脚本也是不能打过，所以不封&lt;br&gt; QQ群206319518 点击链接加入群&lt;a href=&quot;https://jq.qq.com/?_wv=1027&amp;amp;k=4E0RiN7&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;【魔灵全自动解放双手】：https://jq.qq.com/?_wv=1027&amp;amp;k=4E0RiN7&lt;/a&gt;&lt;br&gt;群内有多红星大神水军欢迎进群探讨闲聊。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="魔灵全自动" scheme="http://heyzayz.github.io/categories/%E9%AD%94%E7%81%B5%E5%85%A8%E8%87%AA%E5%8A%A8/"/>
+    
+    
+      <category term="功能说明" scheme="http://heyzayz.github.io/tags/%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/"/>
+    
+      <category term="说明" scheme="http://heyzayz.github.io/tags/%E8%AF%B4%E6%98%8E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>魔灵全自动使用说明</title>
+    <link href="http://heyzayz.github.io/2017-08-09/smon_use/"/>
+    <id>http://heyzayz.github.io/2017-08-09/smon_use/</id>
+    <published>2017-08-08T16:00:00.000Z</published>
+    <updated>2017-08-13T07:59:07.516Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="声明"><a href="#声明" class="headerlink" title="声明"></a>声明</h2><p> 欢迎使用电脑通用挂机脚本，用于自动挂机，不含黑科技，不会封号，请放心使用！<br> 简单说就是脚本只有代替双手，你能打过的替你打，你打不过的用脚本也是不能打过，所以不封<br> QQ群206319518 点击链接加入群<a href="https://jq.qq.com/?_wv=1027&amp;k=4E0RiN7" target="_blank" rel="external">【魔灵全自动解放双手】：https://jq.qq.com/?_wv=1027&amp;k=4E0RiN7</a><br>群内有多红星大神水军欢迎进群探讨闲聊。<br><a id="more"></a></p>
+<h2 id="功能说明传送门"><a href="#功能说明传送门" class="headerlink" title="功能说明传送门"></a><a href="/2017-08-09/smon_function/">功能说明传送门</a></h2><h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p> 1.支持win7，8，10，xp自测<br> 2.支持笔记本台式机</p>
+<h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><h3 id="群文件介绍"><a href="#群文件介绍" class="headerlink" title="群文件介绍!"></a>群文件介绍!</h3><p>其中apk游戏安装包，模拟器均可以从官网下载<br><img src="/img/m0001.png" alt="群文件介绍"></p>
+<p><a href="http://hub.com2us.com/game/2624/detail" target="_blank" rel="external">官方游戏安装包下载链接</a><br><a href="https://www.yeshen.com/" target="_blank" rel="external">官方模拟器安装包下载链接</a></p>
+<h2 id="设置"><a href="#设置" class="headerlink" title="设置"></a>设置</h2><h3 id="模拟器内存设置为1536-可以选自定义，分辨率设置为760-570，DPI-240"><a href="#模拟器内存设置为1536-可以选自定义，分辨率设置为760-570，DPI-240" class="headerlink" title="模拟器内存设置为1536 可以选自定义，分辨率设置为760*570，DPI 240"></a>模拟器内存设置为1536 可以选自定义，分辨率设置为760*570，DPI 240</h3><h3 id="进去游戏后将低配置设置和图片第三步一致，语言必须为简体中文"><a href="#进去游戏后将低配置设置和图片第三步一致，语言必须为简体中文" class="headerlink" title="进去游戏后将低配置设置和图片第三步一致，语言必须为简体中文"></a>进去游戏后将低配置设置和图片第三步一致，语言必须为简体中文</h3><h3 id="脚本使用没有问题之后按照图片第四步设置锁定，防止出现窗口大小被改变（这个很重要）"><a href="#脚本使用没有问题之后按照图片第四步设置锁定，防止出现窗口大小被改变（这个很重要）" class="headerlink" title="脚本使用没有问题之后按照图片第四步设置锁定，防止出现窗口大小被改变（这个很重要）"></a>脚本使用没有问题之后按照图片第四步设置锁定，防止出现窗口大小被改变（这个很重要）</h3><p><img src="/img/m0002.jpg" alt="模拟器设置"></p>
+<h3 id="以上设置没有问题可以暂时跳过下面设置运行脚本，如果出现提示分辨率错误则需要进行以下设置"><a href="#以上设置没有问题可以暂时跳过下面设置运行脚本，如果出现提示分辨率错误则需要进行以下设置" class="headerlink" title="以上设置没有问题可以暂时跳过下面设置运行脚本，如果出现提示分辨率错误则需要进行以下设置"></a>以上设置没有问题可以暂时跳过下面设置运行脚本，如果出现提示分辨率错误则需要进行以下设置</h3><h3 id="如果所有设置都没有问题之后，还是提示分辨率错误说明你不小心将窗口大小改变了。解决方法是先将模拟器分辨率改为800-600重启模拟器后再将分辨率改回来，没问题后图片第四步设置锁定"><a href="#如果所有设置都没有问题之后，还是提示分辨率错误说明你不小心将窗口大小改变了。解决方法是先将模拟器分辨率改为800-600重启模拟器后再将分辨率改回来，没问题后图片第四步设置锁定" class="headerlink" title="如果所有设置都没有问题之后，还是提示分辨率错误说明你不小心将窗口大小改变了。解决方法是先将模拟器分辨率改为800*600重启模拟器后再将分辨率改回来，没问题后图片第四步设置锁定"></a>如果所有设置都没有问题之后，还是提示分辨率错误说明你不小心将窗口大小改变了。解决方法是先将模拟器分辨率改为800*600重启模拟器后再将分辨率改回来，没问题后图片第四步设置锁定</h3><p><img src="/img/m0003.jpg" alt="模拟器设置"></p>
+<h2 id="运行"><a href="#运行" class="headerlink" title="运行"></a>运行</h2><h3 id="脚本账号是不绑定的，但是只能单点登陆，如需多开需多账号"><a href="#脚本账号是不绑定的，但是只能单点登陆，如需多开需多账号" class="headerlink" title="脚本账号是不绑定的，但是只能单点登陆，如需多开需多账号"></a>脚本账号是不绑定的，但是只能单点登陆，如需多开需多账号</h3><h3 id="打开脚本可以先选择线路测试选择最优的线路打开防止脚本意外掉线"><a href="#打开脚本可以先选择线路测试选择最优的线路打开防止脚本意外掉线" class="headerlink" title="打开脚本可以先选择线路测试选择最优的线路打开防止脚本意外掉线"></a>打开脚本可以先选择线路测试选择最优的线路打开防止脚本意外掉线</h3><h3 id="脚本账号是自己注册的，新手测试可以找群主拿一张天卡试用"><a href="#脚本账号是自己注册的，新手测试可以找群主拿一张天卡试用" class="headerlink" title="脚本账号是自己注册的，新手测试可以找群主拿一张天卡试用"></a>脚本账号是自己注册的，新手测试可以找群主拿一张天卡试用</h3><h3 id="登陆完成后打开游戏开始战斗界面，点脚本上启动按钮"><a href="#登陆完成后打开游戏开始战斗界面，点脚本上启动按钮" class="headerlink" title="登陆完成后打开游戏开始战斗界面，点脚本上启动按钮"></a>登陆完成后打开游戏开始战斗界面，点脚本上启动按钮</h3><p><img src="/img/m0005.png" alt="运行"></p>
+<h2 id="关于微调"><a href="#关于微调" class="headerlink" title="关于微调"></a>关于微调</h2><pre><code>如果卡住可以尝试使用微调，一格一格试，微调越靠右识别出错几率越大，默认最精确
+</code></pre><h2 id="常见错误"><a href="#常见错误" class="headerlink" title="常见错误"></a>常见错误</h2><h3 id="提示分辨率不正确"><a href="#提示分辨率不正确" class="headerlink" title="提示分辨率不正确"></a>提示分辨率不正确</h3><pre><code>请查看设置一共两张图片设置截图请仔细对比
+</code></pre><h3 id="出现创建远程共享对象失败"><a href="#出现创建远程共享对象失败" class="headerlink" title="出现创建远程共享对象失败"></a>出现创建远程共享对象失败</h3><pre><code>出现这个，模拟器用管理员运行即可
+</code></pre><h3 id="自动换狗粮不好用解决办法"><a href="#自动换狗粮不好用解决办法" class="headerlink" title="自动换狗粮不好用解决办法"></a>自动换狗粮不好用解决办法</h3><pre><code>自动换狗粮需要较高的兼容性，需要关闭最低配置，夜神的话需要按照上面设置设置
+如果设置对那就使用微调功能可以一个个刻度往右拖
+还不能够解决识别问题，建议使用次数限制或者满级停止两个功能
+</code></pre><h3 id="卡住不动解决办法"><a href="#卡住不动解决办法" class="headerlink" title="卡住不动解决办法"></a>卡住不动解决办法</h3><pre><code>1.卡住不动了用卡住微调功能可以一个个刻度往右拖，哪个刻度不卡就用哪个
+2.购买体力卡住需要先调刻度，然后关闭确认购买，关闭到‘再来一次’的界面
+3.微调使用了还不行的话，就可以用脚本“卡住截图”功能截图然后发到群文件或发给群主
+</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;声明&quot;&gt;&lt;a href=&quot;#声明&quot; class=&quot;headerlink&quot; title=&quot;声明&quot;&gt;&lt;/a&gt;声明&lt;/h2&gt;&lt;p&gt; 欢迎使用电脑通用挂机脚本，用于自动挂机，不含黑科技，不会封号，请放心使用！&lt;br&gt; 简单说就是脚本只有代替双手，你能打过的替你打，你打不过的用脚本也是不能打过，所以不封&lt;br&gt; QQ群206319518 点击链接加入群&lt;a href=&quot;https://jq.qq.com/?_wv=1027&amp;amp;k=4E0RiN7&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;【魔灵全自动解放双手】：https://jq.qq.com/?_wv=1027&amp;amp;k=4E0RiN7&lt;/a&gt;&lt;br&gt;群内有多红星大神水军欢迎进群探讨闲聊。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="魔灵全自动" scheme="http://heyzayz.github.io/categories/%E9%AD%94%E7%81%B5%E5%85%A8%E8%87%AA%E5%8A%A8/"/>
+    
+    
+      <category term="说明" scheme="http://heyzayz.github.io/tags/%E8%AF%B4%E6%98%8E/"/>
+    
+      <category term="使用说明" scheme="http://heyzayz.github.io/tags/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>魔灵全自动更新说明</title>
+    <link href="http://heyzayz.github.io/2017-08-08/smon_up/"/>
+    <id>http://heyzayz.github.io/2017-08-08/smon_up/</id>
+    <published>2017-08-07T16:00:00.000Z</published>
+    <updated>2017-08-13T07:59:03.855Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="声明"><a href="#声明" class="headerlink" title="声明"></a>声明</h2><p> 欢迎使用电脑通用挂机脚本，用于自动挂机，不含黑科技，不会封号，请放心使用！<br> 简单说就是脚本只有代替双手，你能打过的替你打，你打不过的用脚本也是不能打过，所以不封<br> QQ群206319518 点击链接加入群<a href="https://jq.qq.com/?_wv=1027&amp;k=4E0RiN7" target="_blank" rel="external">【魔灵全自动解放双手】：https://jq.qq.com/?_wv=1027&amp;k=4E0RiN7</a><br>群内有多红星大神水军欢迎进群探讨闲聊。<br><a id="more"></a><br><a href="/2017-08-09/smon_use/">使用说明传送门</a><br><a href="/2017-08-09/smon_function/">功能说明传送门</a></p>
+<h2 id="更新说明"><a href="#更新说明" class="headerlink" title="更新说明"></a>更新说明</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="500" height="400" src="/download/AutoUpdate_smon.txt"></iframe>
+
+
+
+
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;声明&quot;&gt;&lt;a href=&quot;#声明&quot; class=&quot;headerlink&quot; title=&quot;声明&quot;&gt;&lt;/a&gt;声明&lt;/h2&gt;&lt;p&gt; 欢迎使用电脑通用挂机脚本，用于自动挂机，不含黑科技，不会封号，请放心使用！&lt;br&gt; 简单说就是脚本只有代替双手，你能打过的替你打，你打不过的用脚本也是不能打过，所以不封&lt;br&gt; QQ群206319518 点击链接加入群&lt;a href=&quot;https://jq.qq.com/?_wv=1027&amp;amp;k=4E0RiN7&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;【魔灵全自动解放双手】：https://jq.qq.com/?_wv=1027&amp;amp;k=4E0RiN7&lt;/a&gt;&lt;br&gt;群内有多红星大神水军欢迎进群探讨闲聊。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="魔灵全自动" scheme="http://heyzayz.github.io/categories/%E9%AD%94%E7%81%B5%E5%85%A8%E8%87%AA%E5%8A%A8/"/>
+    
+    
+      <category term="说明" scheme="http://heyzayz.github.io/tags/%E8%AF%B4%E6%98%8E/"/>
+    
+      <category term="更新说明" scheme="http://heyzayz.github.io/tags/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E/"/>
+    
+  </entry>
+  
+</feed>

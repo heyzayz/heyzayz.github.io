@@ -1,0 +1,12 @@
+#robots.txt
+User-agent: *
+Allow: /
+Allow: /about/
+Allow: /categories/
+Allow: /img/
+Allow: /tags/
+
+Disallow: /download/
+
+Sitemap: http://www.hao456.wang/sitemap.xml
+Sitemap: http://www.hao456.wang/baidusitemap.xml
