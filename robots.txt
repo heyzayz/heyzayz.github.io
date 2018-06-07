@@ -8,5 +8,5 @@ Allow: /tags/
 
 Disallow: /download/
 
-Sitemap: http://www.hao456.wang/sitemap.xml
-Sitemap: http://www.hao456.wang/baidusitemap.xml
+Sitemap: http://heyzayz.github.io/sitemap.xml
+Sitemap: http://heyzayz.github.io/baidusitemap.xml
